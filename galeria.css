@@ -1,0 +1,10 @@
+.div-car{
+    width: 600px;
+    height: 450px;
+}
+.car-prin{
+    display: flex;
+    justify-content: center;
+    margin: 32px;
+    padding: 32px;
+}
